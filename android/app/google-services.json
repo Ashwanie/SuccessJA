@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817597638230",
+    "firebase_url": "https://medja-b0bd7.firebaseio.com",
+    "project_id": "medja-b0bd7",
+    "storage_bucket": "medja-b0bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817597638230:android:fe7f642ca24c4280f4bdf7",
+        "android_client_info": {
+          "package_name": "co.pitt.medjam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817597638230-rrcs2abovfs7a3s724uks13oqv6p6c61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ntQYTYwHQTJFaO-8PfvuKuuWdVU0bKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817597638230-rrcs2abovfs7a3s724uks13oqv6p6c61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
